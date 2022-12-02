@@ -1,2 +1,2 @@
-# Todo-List-Smart-Contract
-A Ethereum based Todo List Smart Contract built using Solidity
+# JustDo
+A Decentalised program to organise everyday important activities
