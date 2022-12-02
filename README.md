@@ -14,6 +14,11 @@ This application provides users with the following features:
   - Only the user who created the tasks can complete his or her tasks.  
   - Total count of tasks.   
 
+## Contributions
+- Ashwin Nair - <a>https://github.com/DarkLord125</a>
+- Nitai Kodkani - <a>https://github.com/NitaiKodkani</a>
+- Khushal Jhaveri - <a>https://github.com/KhushalJhaveri</a>
+
 ## Links
 
 Link for Presentation - <a>https://www.canva.com/design/DAFTTgeQAPI/LXpNapixHBD6fxwj7G3T6w/view?utm_content=DAFTTgeQAPI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#1</a>
