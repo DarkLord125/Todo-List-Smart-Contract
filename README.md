@@ -21,6 +21,6 @@ This application provides users with the following features:
 
 ## Links
 
-Link for Presentation - <a>https://www.canva.com/design/DAFTTgeQAPI/LXpNapixHBD6fxwj7G3T6w/viewutm_content=DAFTTgeQAPI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#1</a>
+Link for Presentation - <a>http://bit.ly/3XUyeag</a>
 
 Project Link: <a>https://github.com/DarkLord125/Todo-List-Smart-Contract</a>
