@@ -10,6 +10,6 @@ A Decentalised program to organise everyday important activities or simply a To 
 
 ## Features
 This application provides users with the following features:  
-Users can add tasks.  
-Only the user who created the tasks can complete his or her tasks.  
-Total count of tasks.   
+  - Users can add tasks.  
+  - Only the user who created the tasks can complete his or her tasks.  
+  - Total count of tasks.   
