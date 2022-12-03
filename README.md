@@ -5,7 +5,7 @@ Solidity is an object-oriented programming language created specifically by the 
  
 
 ## JustDo
-A Decentalised program to organise everyday important activities or simply a To Do list DApp
+A Decentralized program to organise everyday important activities or simply a To Do list DApp
 
 ## Features
 This application provides users with the following features:  
