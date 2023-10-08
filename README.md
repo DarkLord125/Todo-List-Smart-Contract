@@ -18,8 +18,4 @@ This application provides users with the following features:
 - Nitai Kodkani - <a>https://github.com/NitaiKodkani</a>
 - Khushal Jhaveri - <a>https://github.com/KhushalJhaveri</a>
 
-## Links
-
-Link for Presentation - <a>http://bit.ly/3XUyeag</a>
-
 Project Link: <a>https://github.com/DarkLord125/Todo-List-Smart-Contract</a>
